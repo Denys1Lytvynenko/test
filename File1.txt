@@ -8,3 +8,4 @@ I love code
 QA
 new line in new branch)
 Conflict in my area
+new line for GUI
