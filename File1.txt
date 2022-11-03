@@ -7,4 +7,3 @@ NEW DATA
 I love code
 QA
 new line in new branch)
-conflict in master
