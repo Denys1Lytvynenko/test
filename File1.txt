@@ -8,3 +8,6 @@ I love code
 QA
 new line in new branch)
 Ну шо тут сказать
+Conflict in my area
+new line for GUI
+
